@@ -20,4 +20,4 @@ This website is Build for Car Repair related Automobile Website. Where they prov
 
 
 
-![Karshops Car Repair](https://ibb.co/nr2Cvx3/site-screenshot)
+![Karshops Car Repair](https://i.ibb.co/dB9gq8b/site-screenshot.png)
